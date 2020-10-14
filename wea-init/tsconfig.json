@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@vant/weapp/*": ["../../miniprogram_npm/@vant/weapp/dist/*"]
+    }
+  }
+}
