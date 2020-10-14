@@ -48,5 +48,6 @@
       text="立即购买"
       bind:click="onClickButton"
     />
-</van-goods-action>
+  </van-goods-action>
+
 </view>
